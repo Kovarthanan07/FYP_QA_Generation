@@ -1,6 +1,4 @@
-# FYP_QA_Generation
-
-# Automatic MCQ Generator
+# MCQ Generator for Primary Kids
 
 This project focuses on generating Multiple Choice Questions (MCQs) automatically from a given paragraph using Natural Language Processing (NLP) techniques. The pipeline includes summarization, answer extraction, question generation, and distractor creation, ensuring high-quality and challenging MCQs.
 
